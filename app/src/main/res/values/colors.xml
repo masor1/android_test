@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="view">#050B18</color>
+    <color name="grade_cnt">#45454D</color>
+    <color name="category_tab">#3D44A9F4</color>
+    <color name="category_tab_text">#41A0E7</color>
+    <color name="description">#EEF2FB</color>
+    <color name="grade_cnt_reviews">#A8ADB7</color>
+    <color name="icon_round">#47FFFFFF</color>
+    <color name="icon_round_press">#61FFFFFF</color>
+    <color name="line">#1A1F29</color>
+    <color name="button_install_text">#050B18</color>
+    <color name="button_install">#F4D144</color>
+    <color name="comment_text">#A8ADB7</color>
 </resources>
